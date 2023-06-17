@@ -1,0 +1,4 @@
+!!!Read a file of  English text, and printing... 
+out each  word line by   line: 
+without   including, punctuation marks and?? 
+Non - alpha characters.
